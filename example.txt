@@ -1,2 +1,3 @@
 This is an example file.
+copy1
 copy2
